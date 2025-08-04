@@ -15,7 +15,7 @@ A chatbot that uses OpenAI's API to generate intelligent responses based on user
 - API: OpenAI
 
 ## Setup
-
+```bash
 1. Clone the repo:
 
 git clone https://github.com/yourusername/your-repo.git
@@ -32,3 +32,4 @@ OPENAI_API_KEY=your_key_here
 4. Run the app:
 
 npm start
+```
